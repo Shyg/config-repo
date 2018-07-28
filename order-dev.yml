@@ -14,5 +14,5 @@ spring:
       show-sql: true
 env: dev2
 girl:
-  name: haha
+  name: xiaobai
   age: 18
