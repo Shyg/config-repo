@@ -13,3 +13,6 @@ spring:
   jpa:
       show-sql: true
 env: dev2
+girl:
+  name: jack
+  age: 18
